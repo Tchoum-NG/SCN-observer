@@ -9,7 +9,7 @@
 
 <script>
 import TopBar from './TopBar.vue'
-import LeftDrawer from './LeftDrawer'
+import LeftDrawer from './LeftDrawer.vue'
 
 export default {
   components: {
